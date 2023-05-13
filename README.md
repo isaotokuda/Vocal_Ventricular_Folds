@@ -1,7 +1,5 @@
 # Vocal_Ventricular_Folds
-This program is written for c-language. It includes
-
-VocalVentricularFolds.c: Simulate vocal-ventricular fold co-oscillations.
+This program (VocalVentricularFolds.c) simulates vocal-ventricular fold co-oscillations. It is written in c-language.
 
 Compile: gcc VocalVentricularFolds.c -o VocalVentricularFolds -lm
 
